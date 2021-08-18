@@ -1,0 +1,4 @@
+La largeur des maquettes est de 1200pixel
+
+Le header et le footer sont pensé pour etre adaptatif, c'est à dire qu'il prendre tout l'espace disponnible
+suivant la taille de l'ecran (1200, 1366, 1920...)
